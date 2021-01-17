@@ -77,17 +77,13 @@ body {
   }
   #about-image {
     /* Positioning */
-    float: left;
-    /* Box-model */
-    width: 225px;
-    margin: 0 20px 10px 0;
+    width: 100%;
+    height: auto;
+    margin-bottom: 25px;
   }
-  /* About Me Image settings when screen is smaller */
-  @media (min-width: 425px) {
-    #about-image {
-      margin-right: 35px;
-      margin-left: 35px;
-    }
+  #description {
+    height: 325px;
+    overflow:auto;
   }
   /* END ABOUT-ME PAGE */
 
