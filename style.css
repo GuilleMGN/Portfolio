@@ -3,7 +3,7 @@ body {
     /* Typography */
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     /* Visual */
-    background-image: url("imgs/polygon.jpg");
+    background-image: url("imgs/polygon.png");
   }
   html {
     /* Positioning */
@@ -124,7 +124,6 @@ body {
     width: 55px;
     height: 55px;
     margin-right: 5px;
-    margin-top: 50px;
     display: inline-block;
   }
   /* Adds LinkedIn Link */
@@ -133,7 +132,6 @@ body {
     width: 55px;
     height: 55px;
     margin-right: 5px;
-    margin-top: 50px;
     display: inline-block;
   }
   /* Adds Stack Overflow Link */
@@ -142,15 +140,14 @@ body {
     width: 55px;
     height: 55px;
     margin-right: 5px;
-    margin-top: 10px;
     display: inline-block;
   }
+  /* Downloadable Resume */
   #btn-resume {
-    background-image: url("imgs/word.png");
+    background-image: url("imgs/pdf.png");
     width: 55px;
     height: 55px;
     margin-right: 5px;
-    margin-top: 10px;
     display: inline-block;
   }
   /* END CONTACT FORM PAGE */
