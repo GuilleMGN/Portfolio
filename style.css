@@ -62,6 +62,10 @@ body {
     padding-left: 5px;
     padding-right: 5px;
   }
+  .project-title {
+    text-align: center;
+    margin-top: 10px;
+  }
   /* --- End Styles for all HTML pages --- */
   
   /* --- PAGE-SPECIFIC STYLES --- */
