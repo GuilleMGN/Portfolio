@@ -4,7 +4,7 @@ $("#gifimg1").hover(
         $(this).attr("src", "imgs/vibe-cannon-demo.gif");
     },
     function () {
-        $(this).attr("src", "imgs/vibe-cannon-demo.png");
+        $(this).attr("src", "imgs/vibe-cannon-demo.PNG");
     }
 );
 $("#gifimg2").hover(
@@ -12,7 +12,7 @@ $("#gifimg2").hover(
         $(this).attr("src", "imgs/weather-dashboard-demo.gif");
     },
     function () {
-        $(this).attr("src", "imgs/weather-dashboard-demo.png");
+        $(this).attr("src", "imgs/weather-dashboard-demo.PNG");
     }
 );
 $("#gifimg3").hover(
@@ -20,7 +20,7 @@ $("#gifimg3").hover(
         $(this).attr("src", "imgs/work-day-scheduler-demo.gif");
     },
     function () {
-        $(this).attr("src", "imgs/work-day-scheduler-demo.png");
+        $(this).attr("src", "imgs/work-day-scheduler-demo.PNG");
     }
 );
 $("#gifimg4").hover(
@@ -28,6 +28,6 @@ $("#gifimg4").hover(
         $(this).attr("src", "imgs/coding-quiz-demo.gif");
     },
     function () {
-        $(this).attr("src", "imgs/coding-quiz-demo.png");
+        $(this).attr("src", "imgs/coding-quiz-demo.PNG");
     }
 );
