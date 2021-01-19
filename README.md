@@ -7,6 +7,15 @@ This repository features Project 1 and 3 of my best homework assignments. I have
 My updated portfolio page includes links to these profiles, a downloadable PDF version of my resume, exemplary assignments with links, and my contact information. 
 I used Bootstrap CSS framework to ensure a mobile-responsive user interface and edited the CSS to look polished and unique. 
 
+### About Me Page
+The first page shows my picture as well as a brief description of my interests, and explaining what the website is about. 
+
+### Portfolio Page
+The second page shows 4 assignments I did, including Project 1. They all have titles, link to GitHub repository, and link to live application, as well as a gif that will play when the user hovers over the image. I used JavaScript and jQuery syntax to carry out this function. 
+
+### Contact Page
+The third page has all my contact info including GitHub profile, LinkedIn profile, StackOverflow profile, downloadable PDF resume, email address and phone number so anyone can contact me. 
+
 ## Links
 * Portfolio: https://guillemgn.github.io/Portfolio/index.html
 * Repository: https://github.com/GuilleMGN/Portfolio
