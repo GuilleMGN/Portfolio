@@ -62,10 +62,6 @@ body {
     padding-left: 5px;
     padding-right: 5px;
   }
-  .project-title {
-    text-align: center;
-    margin-top: 10px;
-  }
   /* --- End Styles for all HTML pages --- */
   
   /* --- PAGE-SPECIFIC STYLES --- */
@@ -96,32 +92,13 @@ body {
   .port-image {
     margin: 20px auto;  
   }
+  .project-title {
+    text-align: center;
+    margin-top: 10px;
+  }
   /* END PORTFOLIO PAGE */
   
-  /* CONTACT FORM PAGE  */
-  .form-control {
-    /* give input boxes right angles */
-    border-radius: 0;
-    /* keep from horizontally resizing text area */
-    min-width: 100%;
-    max-width: 100%;
-  }
-  .submit-btn {
-    /* Box-model */
-    padding: 15px 30px;
-    font-size: 16px;
-    font-weight: lighter;
-    cursor: pointer;
-    /* Typography */
-    color: #fff;  
-    /* Visual */
-    background-color: #aa5050;
-    border: 0;
-    margin-left: 20px;
-  }
-  .submit-btn:hover {
-    opacity: .7;
-  }
+  /* CONTACT PAGE  */
   /* Adds GitHub Link */
   #btn-github {
     background-image: url("imgs/github.png");
@@ -154,8 +131,7 @@ body {
     margin-right: 5px;
     display: inline-block;
   }
-  /* END CONTACT FORM PAGE */
-  
+  /* END CONTACT PAGE */
   
   /* BEGIN FOOTER */
   .footer {
