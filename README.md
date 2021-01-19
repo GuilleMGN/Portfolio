@@ -14,3 +14,6 @@ I used Bootstrap CSS framework to ensure a mobile-responsive user interface and 
 * GitHub: https://github.com/GuilleMGN
 
 ## Screenshots
+![about](https://user-images.githubusercontent.com/73862470/104984319-80972b80-59dc-11eb-88be-3f21592684bb.PNG)
+![portfolio](https://user-images.githubusercontent.com/73862470/104984330-84c34900-59dc-11eb-9c94-429706ad5692.gif)
+![contact](https://user-images.githubusercontent.com/73862470/104984324-82f98580-59dc-11eb-95bf-9f652ba2581d.PNG)
