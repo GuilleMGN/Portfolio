@@ -1,4 +1,4 @@
-// This will make imaged become animated gifs when user hovers cursor
+// This will make image become animated gifs when user hovers cursor
 $("#gifimg1").hover(
     function () {
         $(this).attr("src", "imgs/vibe-cannon-demo.gif");
@@ -29,5 +29,21 @@ $("#gifimg4").hover(
     },
     function () {
         $(this).attr("src", "imgs/coding-quiz-demo.PNG");
+    }
+);
+$("#gifimg5").hover(
+    function () {
+        $(this).attr("src", "imgs/template-engine-demo.gif");
+    },
+    function () {
+        $(this).attr("src", "imgs/template-engine-demo.PNG");
+    }
+);
+$("#gifimg6").hover(
+    function () {
+        $(this).attr("src", "imgs/read-me-generator-demo.gif");
+    },
+    function () {
+        $(this).attr("src", "imgs/read-me-generator-demo.PNG");
     }
 );
