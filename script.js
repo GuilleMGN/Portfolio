@@ -47,3 +47,19 @@ $("#gifimg6").hover(
         $(this).attr("src", "imgs/read-me-generator-demo.PNG");
     }
 );
+$("#gifimg7").hover(
+    function () {
+        $(this).attr("src", "imgs/note-taker-demo.gif");
+    },
+    function () {
+        $(this).attr("src", "imgs/note-taker-demo.PNG");
+    }
+);
+$("#gifimg8").hover(
+    function () {
+        $(this).attr("src", "imgs/eat-da-burger-demo.gif");
+    },
+    function () {
+        $(this).attr("src", "imgs/eat-da-burger-demo.PNG");
+    }
+);
