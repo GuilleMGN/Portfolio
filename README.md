@@ -11,7 +11,7 @@ I used Bootstrap CSS framework to ensure a mobile-responsive user interface and 
 The first page shows my picture as well as a brief description of my interests, and explaining what the website is about. 
 
 ### Portfolio Page
-The second page shows 4 assignments I did, including Project 1. They all have titles, link to GitHub repository, and link to live application, as well as a gif that will play when the user hovers over the image. I used JavaScript and jQuery syntax to carry out this function. 
+The second page shows the assignments I did, including Project 1. They all have titles, link to GitHub repository, and link to live application (or walkthrough video), as well as a gif that will play when the user hovers over the image. I used JavaScript and jQuery syntax to carry out this function. 
 
 ### Contact Page
 The third page has all my contact info including GitHub profile, LinkedIn profile, StackOverflow profile, downloadable PDF resume, email address and phone number so anyone can contact me. 
@@ -21,6 +21,9 @@ The third page has all my contact info including GitHub profile, LinkedIn profil
 * Repository: https://github.com/GuilleMGN/Portfolio
 * LinkedIn: https://www.linkedin.com/in/matthewguillen/
 * GitHub: https://github.com/GuilleMGN
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Screenshots
 ![about](https://user-images.githubusercontent.com/73862470/104984319-80972b80-59dc-11eb-88be-3f21592684bb.PNG)
