@@ -33,10 +33,10 @@ $("#gifimg4").hover(
 );
 $("#gifimg5").hover(
     function () {
-        $(this).attr("src", "imgs/template-engine-demo.gif");
+        $(this).attr("src", "imgs/codweb-demo.gif");
     },
     function () {
-        $(this).attr("src", "imgs/template-engine-demo.PNG");
+        $(this).attr("src", "imgs/codweb-demo.PNG");
     }
 );
 $("#gifimg6").hover(
