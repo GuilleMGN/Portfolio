@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "## General Information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilleMGN/UpdatedPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilleMGN/UpdatedPortfolio/issues"
+  },
+  "homepage": "https://github.com/GuilleMGN/UpdatedPortfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
